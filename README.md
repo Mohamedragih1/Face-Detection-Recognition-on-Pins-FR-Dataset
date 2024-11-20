@@ -4,7 +4,7 @@
 This project aims to develop a face recognition system using deep learning techniques. The project consists of three notebooks, each focusing on different aspects of the face recognition pipeline. The notebooks are:
 
 1. **Face Detection and Cropping**: This notebook focuses on detecting faces in images using OpenCV and cropping them for further processing.
-2. **Model Training**: This notebook is dedicated to training a deep learning model for face recognition using the InceptionV3 architecture.
+2. **Model Training**: This notebook is dedicated to training a deep learning model for face recognition using the ResNet50 architecture.
 3. **Real-time Face Recognition**: This notebook demonstrates real-time face recognition using a webcam, utilizing the trained model and embeddings extracted during training.
 
 ---
